@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ron/static/css/main.241951ba.css",
+    "main.js": "/ron/static/js/main.b6e827c5.js",
+    "static/js/787.0a6b1a04.chunk.js": "/ron/static/js/787.0a6b1a04.chunk.js",
+    "index.html": "/ron/index.html",
+    "main.241951ba.css.map": "/ron/static/css/main.241951ba.css.map",
+    "main.b6e827c5.js.map": "/ron/static/js/main.b6e827c5.js.map",
+    "787.0a6b1a04.chunk.js.map": "/ron/static/js/787.0a6b1a04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.b6e827c5.js"
+  ]
+}
